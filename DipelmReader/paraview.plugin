@@ -1,0 +1,6 @@
+NAME
+  DipelmReader
+DESCRIPTION
+  Photoelectron angular momentum distributions
+REQUIRES_MODULES
+  VTK::CommonCore

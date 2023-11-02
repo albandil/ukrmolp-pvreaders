@@ -1,0 +1,7 @@
+NAME
+  UKRmolp::DipelmReaderVTK
+DEPENDS
+  VTK::FiltersCore
+  VTK::IOCore
+PRIVATE_DEPENDS
+  VTK::CommonCore
